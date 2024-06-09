@@ -1,9 +1,9 @@
 // Code Tidy
 
-import { showReviewTotal, populateUser, showDetails, getTopTwoReviews} from './utils'
-import { Price, Country } from './types'
-import { Permissions , LoyaltyUser } from './enums'
-import  Review  from './interfaces'
+//import { showReviewTotal, populateUser, showDetails, getTopTwoReviews} from './utils'
+//import { Price, Country } from './types'
+//import { Permissions , LoyaltyUser } from './enums'
+//import  Review  from './interfaces'
 const propertyContainer = document.querySelector('.properties')
 const reviewContainer = document.querySelector('.reviews')
 const container = document.querySelector('.container')
